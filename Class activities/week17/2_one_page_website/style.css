@@ -1,0 +1,74 @@
+.main-nav{
+    height:60px;
+    background-color:#f1f1f1;
+    
+}
+
+.main-nav li {
+    background-color: #777777;
+    display: inline-block;
+    padding:20px 30px;
+    margin-left:0;
+    color: white;
+}
+
+.main-nav ul{
+    border: 1px solid #333;
+    padding: 0;
+}
+
+.left-side{
+    width: 27%;
+    float: left;
+}
+
+.main-content{
+    width:70%;
+    float:right;
+}
+
+.profile-image{
+    float: left;
+    display: block;
+    width: 10%;
+    padding: 25px;
+}
+
+.action-heading{
+    clear:both;
+    padding: 40px 20px;
+    margin: auto;
+    text-align: center;
+}
+
+.actionshot{
+    width: 30%
+    display: inline-block;
+
+}
+
+.actionshot img{
+    width: 100%;
+    margin-right: 40px;
+    padding: 25px;
+}
+
+.action-container{ 
+
+}
+
+.left-side{
+    border: 1px solid #333;
+    padding: 1%;
+}
+
+.pet-name img {
+    width: 50%;
+
+}
+
+.pet-name p {
+
+    text-align: center
+
+}
